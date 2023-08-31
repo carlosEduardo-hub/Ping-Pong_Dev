@@ -71,7 +71,7 @@ increaseComputer: function () {
     this.computer++
 },
 draw: function () {
-    canvasCtx.font = "bold 72px Arial"
+    canvasCtx.font = "bold 71px Arial"
     canvasCtx.textAlign = "center"
     canvasCtx.textBaseline = "top"
     canvasCtx.fillStyle = "#01341D"
